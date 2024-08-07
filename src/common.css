@@ -1,0 +1,144 @@
+
+
+.selectedTab{
+    border-left: 3px solid blue;
+}
+.selected{
+    width: 70px;
+    color: #425ee9;
+    height: 70px;
+    background-color: #263365;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+
+.revenue{
+    width: 70px;
+    color: #f40580;
+    height: 70px;
+    background-color: #e8469a89;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+.delivered{
+    width: 70px;
+    color: #08ff98;
+    height: 70px;
+    background-color: #09c374;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+.canceled{
+    width: 70px;
+    color: #e40a23;
+    height: 70px;
+    background-color: #e40a2379;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+.grnIcon{
+    font-size: 1.1rem;
+    color: #09c374;
+}
+
+.redIcon{
+    font-size: 1.1rem;
+    color: #e40a23;
+}
+   
+/* Custom styles for the AutoComplete component */
+.auto-complete {
+    width: 120px; /* Adjust the width as needed */
+    margin: 20px auto;
+  }
+  
+  .p-autocomplete {
+    width: 60%;
+    background-color: #4a4b52;
+    border-radius: 20px;
+  }
+  
+  .p-autocomplete-input {
+    border: none;
+    padding: 10px; /* Custom padding */
+    border-radius: 5px; /* Custom border radius */
+    background-color: transparent;
+    color: white;
+    text-align: center;
+  }
+
+  .p-autocomplete-input:focus {
+    border: none;
+    outline: none;
+  }
+  
+  .p-autocomplete-panel {
+   
+    background-color: #000000; /* Custom background color */
+    
+  }
+  
+  .p-autocomplete-item {
+    padding: 10px; /* Custom padding for each item */
+    cursor: pointer;
+    color: rgb(255, 254, 254);
+  }
+
+  .datatblbot,.p-datatable thead th{
+    border-bottom: 1px solid #ccc;
+    color: white;
+    height: fit-content;
+  }
+  .datatblcol{
+    width: 400px;
+    color: white;
+  }
+  .datatblcol2{
+    width: 200px;
+    color: white;
+  }
+  .datatblcolStatus{
+    width: 300px;
+   
+  }
+
+  .custom-datatable .p-datatable-header, 
+.custom-datatable .p-datatable-thead > tr > th,
+.custom-datatable .p-datatable-tbody > tr > td {
+    background-color: #1f2029;
+}
+
+/* Custom SimpleBar Styles */
+
+
+
+.simplebar-track {
+  background: transparent; /* Track color */
+}
+
+/* Style the scrollbar thumb (tracker) */
+.simplebar-scrollbar{
+  background-color: #a6a7ae; /* Thumb (tracker) color */
+  width: 8px; /* Width of the thumb */
+  border-radius: 10px;
+}
+
+.simplebar-scrollbar:hover::before {
+  background-color: #a6a7ae; /* Thumb (tracker) color on hover */
+}

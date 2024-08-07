@@ -1,0 +1,108 @@
+{
+  "orders": [
+    {
+      "customer": "Wade Warren",
+      "orderno": 1547826,
+      "amount": "$ 124.00",
+      "status": "Delivered",
+      "image": "image1"
+    },
+    {
+      "customer": "Cody Fisher",
+      "orderno": 95715620,
+      "amount": "$545.00",
+      "status": "Delivered",
+      "image": "image2"
+    },
+    {
+      "customer": "Savannah Nguyen",
+      "orderno": 78514568,
+      "amount": "$128.20",
+      "status": "Delivered",
+      "image": "image3"
+    },
+    {
+      "customer": "Jane Cooper",
+      "orderno": 48965786,
+      "amount": "$365.02",
+      "status": "Delivered",
+      "image": "image4"
+    },
+    {
+      "customer": "Guy Hawkins",
+      "orderno": 78958215,
+      "amount": "$45.88",
+      "status": "Cancelled",
+      "image": "image5"
+    },
+    {
+      "customer": "Kristian Watson",
+      "orderno": 20967352,
+      "amount": "$65.00",
+      "status": "Pending",
+      "image": "image6"
+    }
+  ],
+  "products": [
+    {
+      "image": "image1",
+      "name": "Jenny Wilson",
+      "rating": 4,
+      "review": "The fod was excellent and so was the service. I had the mushroom risotto with scallops which was awesome. I had a burger over greens (gluten-free) which was also very good. They were very conscientious about gluten allergies."
+    },
+    {
+      "image": "image2",
+      "name": "Dianne Russell",
+      "rating": 5,
+      "review": "We enjoyed the Eggs Benedict served on homemade focaccia bread and hot coffee. Perfect service."
+    },
+    {
+      "image": "image3",
+      "name": "Cameron Williamson",
+      "rating": 5,
+      "review": "Amazing avocado toast with a poached egg. The fresh ingredients made all the difference."
+    },
+    {
+      "image": "image4",
+      "name": "Leslie Alexander",
+      "rating": 3,
+      "review": "The omelette was decent, but the service was a bit slow. Overall, an average experience."
+    },
+    {
+      "image": "image5",
+      "name": "Guy Hawkins",
+      "rating": 5,
+      "review": "Best breakfast burrito I've ever had! The salsa was fresh and spicy, just the way I like it."
+    },
+    {
+      "image": "image6",
+      "name": "Jenny Wilson",
+      "rating": 4,
+      "review": "Great place for a quick breakfast. The bagels were fresh and the cream cheese was delicious."
+    },
+    {
+      "image": "image7",
+      "name": "Eleanor Pena",
+      "rating": 5,
+      "review": "I loved the French toast with fresh berries and whipped cream. A delightful start to the day."
+    },
+    {
+      "image": "image8",
+      "name": "Jacob Jones",
+      "rating": 3,
+      "review": "The scrambled eggs were a bit overcooked, but the hash browns were crispy and tasty."
+    },
+    {
+      "image": "image9",
+      "name": "Courtney Henry",
+      "rating": 4,
+      "review": "The smoothie bowl was refreshing and healthy. A great option for a light breakfast."
+    },
+    {
+      "image": "image10",
+      "name": "Arlene McCoy",
+      "rating": 5,
+      "review": "Excellent breakfast sandwich with bacon, egg, and cheese. The bread was fresh and warm."
+    }
+  ]
+}
